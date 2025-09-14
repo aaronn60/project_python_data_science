@@ -52,5 +52,9 @@ This repo document my 10 projects challenge to learn data science with python.
 - Deployed a working ML app online
 - Repository completed as portfolio evidence of my phyton learning progress.
 
+## Tools used:
+- Python (Pandas, NumPy, Matplotlib, Skicit-learn)
+- Jupyter Notebook
+
 ##THANKYOU!!
 
